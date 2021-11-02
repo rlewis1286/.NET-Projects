@@ -1,0 +1,16 @@
+C:\Users\rlewi\Documents\C#_9_.Net_5\Code\Chapter04\WritingFunctions\bin\Debug\net5.0\WritingFunctions.exe
+C:\Users\rlewi\Documents\C#_9_.Net_5\Code\Chapter04\WritingFunctions\bin\Debug\net5.0\WritingFunctions.deps.json
+C:\Users\rlewi\Documents\C#_9_.Net_5\Code\Chapter04\WritingFunctions\bin\Debug\net5.0\WritingFunctions.runtimeconfig.json
+C:\Users\rlewi\Documents\C#_9_.Net_5\Code\Chapter04\WritingFunctions\bin\Debug\net5.0\WritingFunctions.runtimeconfig.dev.json
+C:\Users\rlewi\Documents\C#_9_.Net_5\Code\Chapter04\WritingFunctions\bin\Debug\net5.0\WritingFunctions.dll
+C:\Users\rlewi\Documents\C#_9_.Net_5\Code\Chapter04\WritingFunctions\bin\Debug\net5.0\ref\WritingFunctions.dll
+C:\Users\rlewi\Documents\C#_9_.Net_5\Code\Chapter04\WritingFunctions\bin\Debug\net5.0\WritingFunctions.pdb
+C:\Users\rlewi\Documents\C#_9_.Net_5\Code\Chapter04\WritingFunctions\obj\Debug\net5.0\WritingFunctions.csproj.AssemblyReference.cache
+C:\Users\rlewi\Documents\C#_9_.Net_5\Code\Chapter04\WritingFunctions\obj\Debug\net5.0\WritingFunctions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rlewi\Documents\C#_9_.Net_5\Code\Chapter04\WritingFunctions\obj\Debug\net5.0\WritingFunctions.AssemblyInfoInputs.cache
+C:\Users\rlewi\Documents\C#_9_.Net_5\Code\Chapter04\WritingFunctions\obj\Debug\net5.0\WritingFunctions.AssemblyInfo.cs
+C:\Users\rlewi\Documents\C#_9_.Net_5\Code\Chapter04\WritingFunctions\obj\Debug\net5.0\WritingFunctions.csproj.CoreCompileInputs.cache
+C:\Users\rlewi\Documents\C#_9_.Net_5\Code\Chapter04\WritingFunctions\obj\Debug\net5.0\WritingFunctions.dll
+C:\Users\rlewi\Documents\C#_9_.Net_5\Code\Chapter04\WritingFunctions\obj\Debug\net5.0\ref\WritingFunctions.dll
+C:\Users\rlewi\Documents\C#_9_.Net_5\Code\Chapter04\WritingFunctions\obj\Debug\net5.0\WritingFunctions.pdb
+C:\Users\rlewi\Documents\C#_9_.Net_5\Code\Chapter04\WritingFunctions\obj\Debug\net5.0\WritingFunctions.genruntimeconfig.cache
